@@ -1,0 +1,22 @@
+move the url to core
+
+login required
+
+make the style of login page
+
+# all done
+
+
+
+--------- loading ...
+
+
+
+master page or base page
+
+fix the .gitignore 
+
+add to github
+
+
+                for yt

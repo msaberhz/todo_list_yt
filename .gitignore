@@ -1,0 +1,59 @@
+# محیط مجازی پایتون
+venv/
+.env/
+venv*/
+env/
+
+# فایلهای IDE
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# دیتابیس SQLite (محلی)
+*.sqlite3
+*.db
+*.db-journal
+
+# فایلهای لاگ و موقت
+*.log
+*.pot
+*.pyc
+*.swp
+*.swo
+
+# فایلهای استاتیک و مدیا (در محیط توسعه)
+staticfiles/
+media/
+
+# تنظیمات حساس جنگو
+/settings/local.py
+/settings/dev.py
+.env
+.env.local
+.env*.local
+
+# فایلهای نصب پایتون
+pip-selfcheck.json
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# تست و کاوراژ
+.coverage
+htmlcov/
+.pytest_cache/
